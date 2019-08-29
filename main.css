@@ -1,3 +1,49 @@
 body {
     background-color: gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #001935;
+    /* font-family: Georgia, 'Times New Roman', Times, serif; */
+    text-align: center;
+}
+
+#buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background-color: #001935;
+    border-radius: 10px;
+    border: #001935 solid 3px;
+    color: white;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-size: 16px;
+    margin: 10px; 
+    padding: 20px;
+}
+
+img {
+    border: white solid 3px;
+    border-radius: 10px;
+    width: 300px;
+    height: 270px;
+}
+
+#card {
+    background-color: #001935;
+    border: #001935 solid 3px;
+    border-radius: 10px;
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+#pet-cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
