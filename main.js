@@ -1,44 +1,44 @@
 const petArray = [
     {
         image: 'https://dogfood.guru/wp-content/uploads/2018/06/Goldendoodle-610x775.jpg',
-        name: 'golden doodle',
-        color: 'tan',
-        specialSkill: 'juggle',
+        name: 'Golden Doodle',
+        color: 'Tan',
+        specialSkill: 'Juggling',
         typeOfPet: 'dog'
     },
     {
         image: 'https://meanjin.com.au/wp-content/uploads/2018/05/Goldfish.jpg',
-        name: 'gold fish',
-        color: 'orange',
-        specialSkill: 'water gymnastics',
+        name: 'Gold Fish',
+        color: 'Orange',
+        specialSkill: 'Water Gymnastics',
         typeOfPet: 'fish'
     },
     {
         image: 'https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg?w=800&quality=85',
-        name: 'little kitten',
-        color: 'gray',
-        specialSkill: 'hangs from ceiling with claws',
+        name: 'Little Kitten',
+        color: 'Gray',
+        specialSkill: 'Hanging from ceiling with claws',
         typeOfPet: 'cat'
     },
     {
         image: 'http://cdn.akc.org/content/hero/lab_puppy_hero.jpg',
-        name: 'labrador retriever',
-        color: 'black',
-        specialSkill: 'runs 70 mph',
+        name: 'Labrador Retriever',
+        color: 'Black',
+        specialSkill: 'Running 70 mph',
         typeOfPet: 'dog'
     },
     {
         image: 'http://www.snowmonkeyresorts.com/wp-content/uploads/2018/07/WhatsApp-Image-2017-07-19-at-19.13.32-683x1024.jpeg',
-        name: 'snow monkey',
-        color: 'tan',
-        specialSkill: 'washes his own hands',
+        name: 'Snow Monkey',
+        color: 'Tan',
+        specialSkill: 'Washing his own hands',
         typeOfPet: 'monkey'
     },
     {
         image: 'https://www.bigalspets.com/blog/wp-content/uploads/2016/12/pexels-photo-128756-1600x1067.jpeg',
-        name: 'clown fish',
-        color: 'orange',
-        specialSkill: 'underwater spy',
+        name: 'Clown Fish',
+        color: 'Orange',
+        specialSkill: 'Underwater Spy',
         typeOfPet: 'fish'
     }
 ]
