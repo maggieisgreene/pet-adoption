@@ -4,7 +4,7 @@
 Use this application to decipher between which types of pet you'd like to adopt with selection of four different types of animals and a choice to see all.
 
 ## Screenshots
-![Pet Adoption Preview]()
+![Pet Adoption Preview](https://raw.githubusercontent.com/maggieisgreene/pet-adoption/master/screenshots/pet-adoption.png)
 
 ## How to run
 * Clone down this project
